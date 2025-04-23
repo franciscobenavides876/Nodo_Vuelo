@@ -1,0 +1,86 @@
+[
+  {
+    "codigo": "VUELOS014",
+    "estado": "Emergencia",
+    "hora": "2025-04-23T07:50:00.419000+00:00",
+    "origen": "Temuco",
+    "destino": "Santiago"
+  },
+  {
+    "codigo": "VUELO001",
+    "estado": "Programado",
+    "hora": "2025-04-23T08:00:00+00:00",
+    "origen": "Temuco",
+    "destino": "Santiago"
+  },
+  {
+    "codigo": "VUELO002",
+    "estado": "Programado",
+    "hora": "2025-04-23T08:15:00+00:00",
+    "origen": "Temuco",
+    "destino": "La Florida"
+  },
+  {
+    "codigo": "VUELO003",
+    "estado": "Programado",
+    "hora": "2025-04-23T08:30:00+00:00",
+    "origen": "Temuco",
+    "destino": "Santiago"
+  },
+  {
+    "codigo": "VUELO004",
+    "estado": "Programado",
+    "hora": "2025-04-23T08:45:00+00:00",
+    "origen": "Temuco",
+    "destino": "La Florida"
+  },
+  {
+    "codigo": "VUELO005",
+    "estado": "Programado",
+    "hora": "2025-04-23T09:00:00+00:00",
+    "origen": "Temuco",
+    "destino": "Santiago"
+  },
+  {
+    "codigo": "VUELO006",
+    "estado": "Programado",
+    "hora": "2025-04-23T09:15:00+00:00",
+    "origen": "Temuco",
+    "destino": "La Florida"
+  },
+  {
+    "codigo": "VUELO007",
+    "estado": "Programado",
+    "hora": "2025-04-23T09:30:00+00:00",
+    "origen": "Temuco",
+    "destino": "Santiago"
+  },
+  {
+    "codigo": "VUELO008",
+    "estado": "Programado",
+    "hora": "2025-04-23T09:45:00+00:00",
+    "origen": "Temuco",
+    "destino": "La Florida"
+  },
+  {
+    "codigo": "VUELO009",
+    "estado": "Programado",
+    "hora": "2025-04-23T10:00:00+00:00",
+    "origen": "Temuco",
+    "destino": "Santiago"
+  },
+  {
+    "codigo": "VUELO010",
+    "estado": "Programado",
+    "hora": "2025-04-23T10:15:00+00:00",
+    "origen": "Temuco",
+    "destino": "La Florida"
+  },
+  {
+    "codigo": "VUELO011",
+    "estado": "Programado",
+    "hora": "2025-04-23T10:30:00+00:00",
+    "origen": "Temuco",
+    "destino": "Santiago"
+  }
+]
